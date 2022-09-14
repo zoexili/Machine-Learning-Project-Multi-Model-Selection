@@ -1,1 +1,6 @@
 Author: Li Xi, contact: lxi@bu.edu
+The code scripts are a part of the Research Project: Modelling Urban Expansion in Vietnam using Time Series Landsat. 
+This project developed a novel machine learning algorithm, Multiple Model Selection, for characterizing distinct urban 
+transition patterns using various mathematical equations (e.g., sigmoidal, polynomial, gaussian, linear, and so on).
+Random forest machine learning technique is adopted to detect, model, and predict the urban surface percentage of each 
+satellite image pixel. Thousands of satellite images can be processed and analyzed automatically following a Python workflow. 
